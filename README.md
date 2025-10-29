@@ -24,18 +24,12 @@ Este projeto é uma interface de chat moderna e responsiva que se conecta a um s
    ```
 4. Acesse http://0.0.0.0:8989
 
-## Arquivos
-
-- `index.html` - Interface principal do chat
-- `start.sh` - Script para iniciar servidor HTTP local
-
 ## Estrutura do projeto
 
 ```
 ai-chat-prototype/
-├── index.html      # Interface do chat
-├── start.sh        # Script de inicialização
-└── README.md       # Este arquivo
+├── index.html      # Interface principal do chat
+├── start.sh        # Script para iniciar servidor HTTP local
 ```
 
 ## Requisitos
