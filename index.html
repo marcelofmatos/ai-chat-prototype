@@ -332,7 +332,7 @@
         <div class="chat-header">
             💬 Assistente
         </div>
-        
+
         <div id="chat-box">
             <div class="empty-state">
                 <div class="empty-state-icon">🤖</div>
@@ -340,15 +340,15 @@
                 <div class="empty-state-subtext">Digite sua pergunta abaixo para começar</div>
             </div>
         </div>
-        
+
         <div class="chat-input-container">
             <input 
                 type="text" 
                 id="user-input" 
                 placeholder="Digite sua pergunta..."
                 onkeypress="handleKeyPress(event)"
-            />
-            <button onclick="sendMessage()" id="send-btn">Enviar</button>
+            >
+            <button type="button" onclick="sendMessage()" id="send-btn">Enviar</button>
         </div>
     </div>
 
