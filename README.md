@@ -6,14 +6,6 @@ Um protótipo de chat com integração de IA.
 
 Este projeto é uma interface de chat moderna e responsiva que se conecta a um serviço de IA para processar perguntas.
 
-## Recursos
-
-- ✨ Interface de chat moderna e responsiva
-- 🤖 Integração com IA via webhook
-- 💬 Indicador de digitação animado
-- 📱 Design mobile-first
-- 🎨 Gradientes e animações suaves
-
 ## Como usar
 
 1. Configure um webhook que processe perguntas com IA
