@@ -4,7 +4,7 @@ Um protótipo de chat com integração de IA.
 
 ## Descrição
 
-Este projeto é uma interface de chat moderna e responsiva que se conecta a um serviço de IA para processar perguntas.
+Este projeto é uma interface de chat moderna e responsiva que se conecta a um serviço de IA para processar perguntas usando uma base de conhecimento como escopo.
 
 ## Como usar
 
