@@ -442,7 +442,7 @@
             chatBox.scrollTop = chatBox.scrollHeight;
 
             try {
-                // Call n8n webhook
+                // Call webhook
                 const response = await fetch(WEBHOOK_URL, {
                     method: 'POST',
                     headers: {'Content-Type': 'application/json'},
