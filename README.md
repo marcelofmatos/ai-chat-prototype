@@ -28,7 +28,6 @@ Este projeto é uma interface de chat moderna e responsiva que se conecta a um s
 
 - `index.html` - Interface principal do chat
 - `start.sh` - Script para iniciar servidor HTTP local
-- `.gitignore` - Ignora arquivos sensíveis (tokens, webhooks, PDFs)
 
 ## Estrutura do projeto
 
@@ -36,7 +35,6 @@ Este projeto é uma interface de chat moderna e responsiva que se conecta a um s
 ai-chat-prototype/
 ├── index.html      # Interface do chat
 ├── start.sh        # Script de inicialização
-├── .gitignore      # Arquivos ignorados
 └── README.md       # Este arquivo
 ```
 
