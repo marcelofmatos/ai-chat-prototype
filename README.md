@@ -23,20 +23,3 @@ ai-chat-prototype/
 ├── index.html      # Interface principal do chat
 ├── start.sh        # Script para iniciar servidor HTTP local
 ```
-
-## Requisitos
-
-- Python 3 (para servidor HTTP local)
-- Serviço de webhook configurado
-- Arquivo webhook.txt com URL do webhook
-
-## Tecnologias
-
-- HTML5
-- CSS3 (Flexbox, Grid, Animations)
-- Vanilla JavaScript
-- Fetch API
-
-## Licença
-
-MIT
